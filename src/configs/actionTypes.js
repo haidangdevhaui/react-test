@@ -1,1 +1,5 @@
 export const TODO_UPDATE = 'TODO_UPDATE'
+export const TODO_CREATE = 'TODO_CREATE'
+export const TODO_DELETE = 'TODO_DELETE'
+export const AUTH_LOGIN = 'AUTH_LOGIN'
+export const AUTH_LOGOUT = 'AUTH_LOGOUT'
